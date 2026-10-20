@@ -1,0 +1,24 @@
+# Latife Türk Kahvesi (Söke)
+
+> Konak Mah., Aydın Cd. No:38, 09200 Söke / Aydın adresinde yer alan nitelikli Türk kahvesi, espresso bazlı içecekler, ev yapımı tatlılar ve heykel boyama atölyesi sunan butik kafe.
+
+## Temel Bilgiler
+- **Kategori:** Kafe, Kahve Dükkanı, Heykel Boyama Atölyesi
+- **Şehir/Bölge:** Söke, Aydın, Türkiye
+- **Adres:** Konak Mah., Aydın Cd. No:38, 09200 Söke / Aydın
+- **Telefon:** +90 542 767 33 88
+- **Çalışma Saatleri:** Her gün 09:00 - 00:00
+- **Puan:** 4.8 / 5.0 (560+ Google yorumu)
+
+## Öne Çıkanlar ve Hizmetler
+1. **Geleneksel & Özel Türk Kahveleri:** Klasik taze çekilmiş Türk kahvesi, damla sakızlı, süvari, sütlü ve kumda kahve çeşitleri.
+2. **Espresso & Soğuk Kahveler:** Americano, Cappuccino, Flat White, San Sebastian Latte, Iced Latte, Affogato ve özel soğuk içecekler.
+3. **Ev Yapımı Tatlılar:** San Sebastian Cheesecake, Çilekli Magnolia, Fondant, Tiramisu ve fıstıklı roll.
+4. **Heykel Boyama Atölyesi:** Ziyaretçilerin kahve eşliğinde kendi zürafa, balık, vosvos gibi alçı heykellerini boyayabildiği yaratıcı etkinlik alanı.
+5. **Paket Kahve:** Taze kavrulmuş çekirdek veya çekilmiş paket kahve satışı.
+
+## Sayfalar
+- [Ana Sayfa](https://ozank1.github.io/ornek/latife-soke/): Genel tanıtım, atölye bilgisi, kahve falı oyunu, adres ve çalışma saatleri.
+- [Menü](https://ozank1.github.io/ornek/latife-soke/menu/): Tüm içecek ve tatlıların güncel fiyatları, alerjen ve kalori bilgileri.
+- [Gizlilik Politikası](https://ozank1.github.io/ornek/latife-soke/gizlilik-politikasi.html): KVKK ve veri koruma ilkeleri.
+- [Kullanım Şartları](https://ozank1.github.io/ornek/latife-soke/kullanim-sartlari.html): Site kullanım koşulları.
