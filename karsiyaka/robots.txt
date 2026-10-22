@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ozank1.github.io/ornek/karsiyaka/sitemap.xml
