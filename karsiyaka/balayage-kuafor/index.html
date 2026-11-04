@@ -658,5 +658,5 @@ document.getElementById('kevet').onclick=function(){sec('evet')};document.getEle
 document.querySelectorAll('.kharita button').forEach(function(b){b.onclick=function(){sec('evet')}});
 })();
 </script>
-</body>
+<!--ziyaret--><script>(function(){try{if(navigator.webdriver)return;if(location.search.indexOf('ben=1')>-1)localStorage.setItem('ben','1');if(localStorage.getItem('ben'))return;setTimeout(function(){navigator.sendBeacon('https://ziyaret-uyari.vercel.app/api/ziyaret?site=karsiyaka/balayage-kuafor')},3000)}catch(e){}})()</script></body>
 </html>
